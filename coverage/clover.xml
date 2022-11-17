@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668692037170" clover="3.2.0">
+  <project timestamp="1668692037170" name="All files">
+    <metrics statements="161" coveredstatements="116" conditionals="72" coveredconditionals="50" methods="70" coveredmethods="44" elements="303" coveredelements="210" complexity="0" loc="161" ncloc="161" packages="6" files="10" classes="10"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.js" path="C:\assessment\ReservationSystem\src\App.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\assessment\ReservationSystem\src\index.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.AddReservation">
+      <metrics statements="25" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="14" coveredmethods="9"/>
+      <file name="AddReservationDetails.jsx" path="C:\assessment\ReservationSystem\src\components\AddReservation\AddReservationDetails.jsx">
+        <metrics statements="25" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="14" coveredmethods="9"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="37" count="7" type="stmt"/>
+        <line num="38" count="7" type="stmt"/>
+        <line num="60" count="7" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="69" count="7" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="7" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="104" count="7" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="120" count="7" type="stmt"/>
+        <line num="146" count="14" type="stmt"/>
+        <line num="297" count="35" type="stmt"/>
+        <line num="348" count="0" type="stmt"/>
+        <line num="350" count="0" type="stmt"/>
+        <line num="354" count="12" type="stmt"/>
+        <line num="398" count="0" type="stmt"/>
+        <line num="411" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Home">
+      <metrics statements="81" coveredstatements="68" conditionals="24" coveredconditionals="18" methods="22" coveredmethods="17"/>
+      <file name="Home.jsx" path="C:\assessment\ReservationSystem\src\components\Home\Home.jsx">
+        <metrics statements="78" coveredstatements="68" conditionals="24" coveredconditionals="18" methods="21" coveredmethods="17"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="280" type="stmt"/>
+        <line num="18" count="280" type="stmt"/>
+        <line num="19" count="1400" type="stmt"/>
+        <line num="20" count="1400" type="stmt"/>
+        <line num="22" count="1400" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="1176" type="stmt"/>
+        <line num="28" count="224" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="224" type="stmt"/>
+        <line num="32" count="280" type="stmt"/>
+        <line num="36" count="14" type="stmt"/>
+        <line num="37" count="28" type="stmt"/>
+        <line num="39" count="14" type="stmt"/>
+        <line num="40" count="28" type="stmt"/>
+        <line num="42" count="14" type="stmt"/>
+        <line num="43" count="14" type="stmt"/>
+        <line num="44" count="14" type="stmt"/>
+        <line num="45" count="14" type="stmt"/>
+        <line num="48" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="14" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="54" count="7" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="58" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="64" count="14" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="14" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="74" count="14" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="82" count="14" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="93" count="14" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="99" count="14" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="108" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="117" count="14" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+        <line num="119" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="122" count="1" type="stmt"/>
+        <line num="124" count="1" type="stmt"/>
+        <line num="125" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="134" count="14" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+      </file>
+      <file name="Home.stories.jsx" path="C:\assessment\ReservationSystem\src\components\Home\Home.stories.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ReservationDetails">
+      <metrics statements="39" coveredstatements="22" conditionals="44" coveredconditionals="28" methods="23" coveredmethods="12"/>
+      <file name="ReservationDetails.jsx" path="C:\assessment\ReservationSystem\src\components\ReservationDetails\ReservationDetails.jsx">
+        <metrics statements="27" coveredstatements="22" conditionals="44" coveredconditionals="28" methods="16" coveredmethods="12"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="39" count="9" type="stmt"/>
+        <line num="40" count="9" type="stmt"/>
+        <line num="62" count="9" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="71" count="9" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+        <line num="79" count="9" type="stmt"/>
+        <line num="80" count="4" type="stmt"/>
+        <line num="83" count="9" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="107" count="13" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="123" count="13" type="stmt"/>
+        <line num="150" count="18" type="stmt"/>
+        <line num="312" count="45" type="stmt"/>
+        <line num="366" count="39" type="stmt"/>
+        <line num="369" count="0" type="stmt"/>
+        <line num="373" count="13" type="stmt"/>
+        <line num="419" count="0" type="stmt"/>
+        <line num="433" count="1" type="stmt"/>
+        <line num="435" count="2" type="stmt"/>
+      </file>
+      <file name="ReservationDetails.stories.jsx" path="C:\assessment\ReservationSystem\src\components\ReservationDetails\ReservationDetails.stories.jsx">
+        <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Result">
+      <metrics statements="12" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5"/>
+      <file name="Result.jsx" path="C:\assessment\ReservationSystem\src\components\Result\Result.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="35" count="28" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+      <file name="Result.stories.jsx" path="C:\assessment\ReservationSystem\src\components\Result\Result.stories.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Search">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Search.jsx" path="C:\assessment\ReservationSystem\src\components\Search\Search.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="14" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
